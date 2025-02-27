@@ -1,6 +1,6 @@
 # Printable-Kinematic-Structures-for-Teaching
 
-A general description of the system or project
+This is repository for the development of 3D printed teaching aids for robotics. In the hopes that this provides a physical analogue for intuitive understanding of transformations acting within 3D space.
 
 The project status is important if the project is still in development. Use the file to mention planned changes and the development direction or indicate the completion date of the project.
 
