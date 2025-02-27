@@ -1,22 +1,28 @@
 # Printable-Kinematic-Structures-for-Teaching
+This is a repository for the development of 3D-printed teaching aids for robotics. We hope that this provides a physical analogue for intuitive understanding of transformations acting within 3D space. 
+Currently, the focus of these aids is to support the understanding of concepts related to:
+  - Frame Transformation (Rotation around an axis in 3D space, Translation across an axis in 3D Space).
+  - Forward kinematics.
+  - Robotic Structures.
+  - The DH parameterization convention.
 
-This is repository for the development of 3D printed teaching aids for robotics. In the hopes that this provides a physical analogue for intuitive understanding of transformations acting within 3D space.
+## Project Status and Current Goals
+TBC
 
-The project status is important if the project is still in development. Use the file to mention planned changes and the development direction or indicate the completion date of the project.
 
-The requirements on the development environment for integration
-
-A guide to installation and use
-
-A list of technology used and any links to further information related to this technology
-
-Open-source projects that the developers independently modify or expand should be contained in a section on “desired collaboration” in the readme.md file. How should problems be handled? How should developers advance the changes?
-
-Known bugs and any bug fixes:
+## Desired Collaboration
+TBC
 
 ## Printing Settings
 ## Assembly Instructions
+
+## FAQ and Known Issues
 FAQ section with all previously asked questions:
+
+Known Issues:
+
+## Software Utilised
+A list of technology used and any links to further information related to this technology
 
 ## License
 CERN Open Hardware Licence Version 2 - Permissive
