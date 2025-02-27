@@ -14,10 +14,11 @@ Open-source projects that the developers independently modify or expand should b
 
 Known bugs and any bug fixes:
 
-
+## Printing Settings
+## Assembly Instructions
 FAQ section with all previously asked questions:
 
-
+## License
 CERN Open Hardware Licence Version 2 - Permissive
 
 
