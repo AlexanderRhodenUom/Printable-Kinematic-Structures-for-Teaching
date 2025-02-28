@@ -14,6 +14,15 @@ TBC
 TBC
 
 ## Printing Settings
+Each part was test printed on a **Bambu X1C** with the following printing settings:
+- 0.4 Nozzle
+- Layer height: 0.1 mm
+
+Tree supports were used where necessary
+
+> [!NOTE]
+> Due to a variety of factors such as differences in 3D printers and filament quality these settings may not yield the same results in terms of model quality. Therefore this settings are provided as a guidance amnd it is important to adjust the them to match the specific capabilities of your printer.
+
 ## Assembly Instructions
 
 ## FAQ and Known Issues
