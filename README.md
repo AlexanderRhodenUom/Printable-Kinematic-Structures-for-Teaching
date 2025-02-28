@@ -11,6 +11,7 @@ Currently designed and printed:
   - A revolute joint around a single-axis assembly
   - A Print in place Prismatic Joint
   - A small attachable reference frame assembly complete with 3 orthogonal axes.
+  - Some simple clip-on fittings and linkages to assemble a full arm complete with base frames to end effector frames.
 
 Future Goals
 TBC
