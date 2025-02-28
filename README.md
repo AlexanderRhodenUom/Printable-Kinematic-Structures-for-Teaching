@@ -5,8 +5,14 @@ Currently, the focus of these aids is to support the understanding of concepts r
   - Forward kinematics.
   - Robotic Structures.
   - The DH parameterization convention.
-
+  - 
 ## Project Status and Current Goals
+Currently designed and printed:
+  - A revolute joint around a single-axis assembly
+  - A Print in place Prismatic Joint
+  - A small attachable reference frame assembly complete with 3 orthogonal axes.
+
+Future Goals
 TBC
 
 
