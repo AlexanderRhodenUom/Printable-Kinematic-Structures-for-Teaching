@@ -1,5 +1,5 @@
 # Printable-Kinematic-Structures-for-Teaching
-This is a repository for the development of 3D-printed teaching aids for robotics. We hope that this provides a physical analogue for intuitive understanding of transformations acting within 3D space. 
+This is a repository for the development of 3D-printed teaching aids for robotics. We hope to provide a physical analogue for an intuitive understanding of transformations acting within 3D space. 
 Currently, the focus of these aids is to support the understanding of concepts related to:
   - Frame Transformation (Rotation around an axis in 3D space, Translation across an axis in 3D Space).
   - Forward kinematics.
@@ -21,7 +21,7 @@ Each part was test printed on a **Bambu X1C** with the following printing settin
 Tree supports were used where necessary.
 
 > [!NOTE]
-> Due to a variety of factors such as differences in 3D printers and filament quality these settings may not yield the same results in terms of model quality. Therefore this settings are provided as a guidance amnd it is important to adjust the them to match the specific capabilities of your printer.
+> Due to various factors such as differences in 3D printers and filament quality these settings may not yield the same results regarding model quality. Therefore these settings are provided as guidance and it is important to adjust them to match the specific capabilities of your printer.
 
 ## Assembly Instructions
 
