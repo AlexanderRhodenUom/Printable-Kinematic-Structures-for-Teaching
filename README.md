@@ -6,19 +6,19 @@ Currently, the focus of these aids is to support the understanding of concepts r
   - Robotic Structures.
   - The DH parameterization convention.
   - 
-## Project Status and Current Goals
+## Project Status
 Currently designed and printed:
   - A revolute joint around a single-axis assembly
   - A Print in place Prismatic Joint
   - A small attachable reference frame assembly complete with 3 orthogonal axes.
   - Some simple clip-on fittings and linkages to assemble a full arm complete with base frames to end effector frames.
 
-Future Goals
-TBC
+## Future Goals
+  - TBC
 
 
 ## Desired Collaboration
-TBC
+  - TBC
 
 ## Printing Settings
 Each part was test printed on a **Bambu X1C** with the following printing settings:
