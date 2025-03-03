@@ -38,9 +38,6 @@ FAQ section with all previously asked questions:
 
 Known Issues:
 
-## Software Utilised
-A list of technology used and any links to further information related to this technology
-
 ## License
 CERN Open Hardware Licence Version 2 - Permissive
 
