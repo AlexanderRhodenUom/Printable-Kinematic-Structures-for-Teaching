@@ -5,7 +5,8 @@ Currently, the focus of these aids is to support the understanding of concepts r
   - Forward kinematics.
   - Robotic Structures.
   - The DH parameterization convention.
-  - 
+
+A Key Requirement is Modularity. By providing Joints that connect to links using a common design of snap joints. Then arbritrary degrees of freedom kinematic structures can be assembled.
 ## Project Status
 Currently designed and printed:
   - A revolute joint around a single-axis assembly
